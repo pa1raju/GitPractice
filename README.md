@@ -1,2 +1,18 @@
 # GitPractice
-to learn about git repository
+to learn about git repository.
+
+hello world
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>An unordered HTML list</h2>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
+</body>
+</html>
